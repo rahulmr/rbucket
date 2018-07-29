@@ -1,0 +1,5 @@
+{
+  version: "1.0",
+  url: "https://gist.github.com/628f6bdeaa37e7e2c045c1f6f6c1cd69.git",
+  bin: "hello.ps1"
+}
